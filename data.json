@@ -1,0 +1,18 @@
+[
+  {
+    "ho_ten": "Hà Hiếu",
+    "tuoi": 18,
+    "gioi_tinh": "nam",
+    "dia_chi": "HN",
+    "loai": "congnhan",
+    "bac": "Không"
+  },
+  {
+    "ho_ten": "Duy",
+    "tuoi": 18,
+    "gioi_tinh": "nam",
+    "dia_chi": "HN",
+    "loai": "kysu",
+    "nganh_dao_tao": "Không"
+  }
+]
